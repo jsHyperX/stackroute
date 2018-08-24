@@ -2,7 +2,7 @@ body{
     color: lightgreen;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     line-height: inherit;
-    font-size: 25px;
+    font-size: 30px;
     background-color:darkcyan;
 }
 
@@ -11,4 +11,19 @@ myHero {
     background-color: aqua;
     padding: 50px;
     font-size: 30px;
+}
+
+h1{
+    font-size: 40px;
+    color: black;
+}
+
+button{
+    color:black;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: transparent;
+    border:none;
+    outline:none;
 }
