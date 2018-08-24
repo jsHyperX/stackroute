@@ -4,6 +4,8 @@ body{
     line-height: inherit;
     font-size: 30px;
     background-color:darkcyan;
+    background-image: url('7WCkbTEpxX-12.png');
+    background-blend-mode: lighten;
 }
 
 myHero {
@@ -25,5 +27,4 @@ button{
     padding-right: 10px;
     background-color: transparent;
     border:none;
-    outline:none;
 }
